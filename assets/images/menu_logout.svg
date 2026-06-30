@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 83.77 60">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        opacity: .1;
+      }
+
+      .cls-1, .cls-2 {
+        stroke-width: 0px;
+      }
+
+      .cls-2 {
+        fill: #095da5;
+      }
+    </style>
+  </defs>
+  <g id="Cursor">
+    <g>
+      <g>
+        <polygon class="cls-2" points="27.25 10.35 27.25 24 30.75 24 30.75 13.86 52.96 13.86 41.4 17.96 41.4 42.04 52.96 46.14 30.75 46.14 30.75 35.71 27.25 35.71 27.25 49.65 59.66 49.65 59.66 10.35 27.25 10.35"/>
+        <polygon class="cls-2" points="30.73 32.13 30.73 27.87 23.8 27.87 23.8 22.29 13.4 30 23.8 37.71 23.8 32.13 30.73 32.13"/>
+      </g>
+      <rect class="cls-1" width="83.77" height="60"/>
+    </g>
+  </g>
+</svg>
